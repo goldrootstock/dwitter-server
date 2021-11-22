@@ -1,4 +1,4 @@
-#🌅 Node Express/PostgreSQL + React App - Dwitter
+# 🌅 Node Express/PostgreSQL + React App - Dwitter
 A basic clone of Twitter using - Node, Express, PostgreSQL, React using **create-react-app** with separate **server** `(express)` and **client** `(react)` folders. Uses Google's Material Design UI (`material-ui` package).
 
 ## 📝 Features
