@@ -31,4 +31,4 @@ A basic clone of Twitter using - Node, Express, PostgreSQL, React using **create
 ## ⭐️ Resources
 - [Dream Coding - Node로 배우는 백엔드 A-Z] (https://academy.dream-coding.com/courses/node) (online course)
 - [The Complete 2022 Web Development Bootcamp] (https://www.udemy.com/course/the-complete-web-development-bootcamp/) (online course)
-- [자바스크립트 기초 강의 (ES5+)](https://www.youtube.com/watch?v=wcsVjmHrUQg&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2) (Youtube video)
+- [자바스크립트 기초 강의 (ES5+)] (https://www.youtube.com/watch?v=wcsVjmHrUQg&list=PLv2d7VI9OotTVOL4QmPfvJWPJvkmv6h-2) (Youtube video)
